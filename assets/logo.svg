@@ -23,6 +23,12 @@
   <defs
      id="defs2">
     <rect
+       x="97.820645"
+       y="55.057523"
+       width="64.144685"
+       height="22.98518"
+       id="rect881" />
+    <rect
        x="53.453903"
        y="65.748306"
        width="96.751572"
@@ -56,11 +62,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="35.966015"
-     inkscape:cy="323.98574"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="261.5737"
+     inkscape:cy="471.71266"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-bbox="true"
@@ -68,14 +74,19 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-global="true"
      inkscape:window-width="1920"
      inkscape:window-height="1013"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-text-baseline="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -109,17 +120,6 @@
        xml:space="preserve"
        id="text2908"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2910);fill:#000000;fill-opacity:1;stroke:none;" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="79.646317"
-       y="89.802559"
-       id="text2916"><tspan
-         sodipodi:role="line"
-         id="tspan2914"
-         x="79.646317"
-         y="89.802559"
-         style="fill:#000000;fill-opacity:0.672065;stroke-width:0.264583">efdfd</tspan></text>
   </g>
   <g
      inkscape:label="Layer 1"
@@ -139,7 +139,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-53.453903,-39.021351)">
+     transform="translate(-53.453903,-39.021351)"
+     style="display:inline">
     <rect
        style="fill:#679b9b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;image-rendering:auto"
        id="rect10"
@@ -158,23 +159,25 @@
          id="tspan891"
          x="105.07738"
          y="125.11012"
-         style="stroke-width:0.264583"></tspan></text>
+         style="stroke-width:0.264583" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Layer 4"
-     transform="translate(-53.453903,-39.021351)">
+     transform="translate(-53.453903,-39.021351)"
+     style="display:inline">
     <text
        xml:space="preserve"
-       id="text2919"
-       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:0.8;font-family:sans-serif;letter-spacing:-0.669396px;white-space:pre;shape-inside:url(#rect2921);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(1.1308439,57.785007)"><tspan
-         x="53.453125"
-         y="77.386817"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">AWESOME</tspan></tspan><tspan
-         x="53.453125"
-         y="90.933456"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">WIRELESS</tspan></tspan></text>
+       id="text879"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.75;font-family:sans-serif;letter-spacing:-0.981604px;white-space:pre;shape-inside:url(#rect881);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(4.3611818,0,0,5.2610688,-444.96455,-191.34657)"><tspan
+         x="97.820312"
+         y="62.066281"><tspan
+           style="font-weight:bold">AWESOME
+</tspan></tspan><tspan
+         x="97.820312"
+         y="70.003754"><tspan
+           style="font-weight:bold">WIRELESS</tspan></tspan></text>
   </g>
 </svg>
