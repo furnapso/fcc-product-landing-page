@@ -24,12 +24,22 @@ h1 {
     display: grid;
     height: 100px;
     grid-template: "nav img empty";
+    margin-bottom: 50px;
 }
 
 #nav-bar {
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     grid-area: nav;
+}
+
+.nav-link {
+    padding: 10px;
+}
+
+#main {
+    width: 50%;
+    margin: auto;
 }
