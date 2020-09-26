@@ -58,3 +58,23 @@ h1 {
 ul {
     list-style: none;
 }
+
+#pricing {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#video {
+    max-width: 100%;
+}
+
+.pricing-group {
+    border: solid #BED1E8 5px;
+    padding: 5px;
+}
+
+.pricing-group:hover {
+    background-color: #BED1E8;
+    color: white;
+}
